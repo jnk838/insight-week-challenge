@@ -1,15 +1,18 @@
 .home-content {
     text-align: center;
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #home-button {
+    text-align: center;
     font-size: xx-large;
     font-weight: 900;
+    vertical-align: middle;
     color: white;
     background-color: #e88d14;
     padding: 16px;
+    margin: 0px 16px 16px 0px;
     border-radius: 16px;
     text-shadow: black 8px;
     transition: 0.6s;
@@ -17,5 +20,5 @@
 }
 
 #home-button:hover {
-    background-color: #f3be26;
+    background: #f3be26;
 }

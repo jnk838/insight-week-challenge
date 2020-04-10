@@ -32,6 +32,12 @@ Write up the challenge as a markdown file in the `pages/challenges/` directory.
 
 Then add the details of the challenge to the `_data/challenges.yml` file.
 
+| Challenge Difficulty | Number |
+|----------------------|--------|
+| Easy                 | 1      |
+| Medium               | 2      |
+| Hard                 | 3      |
+
 # CTFd Instance
 
 There is currently an instance of *CTFd* running on *35.246.49.218:8000*.

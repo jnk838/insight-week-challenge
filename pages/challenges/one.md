@@ -6,3 +6,5 @@ hide: true
 ---
 
 # Challenge One
+
+## Easy

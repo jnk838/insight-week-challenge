@@ -1,4 +1,9 @@
 - name: One
+  difficulty: 1
   link: ./one
 - name: Two
+  difficulty: 2
   link: ./two
+- name: Three
+  difficulty: 3
+  link: ./three

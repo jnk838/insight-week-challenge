@@ -6,6 +6,11 @@ difficulties from beginner-friendly to advanced.
 We know not everyone signed up for the Digital stream for the Insight Week, but
 please get involved and see what you can do!
 
+The challenges that we have created are hosted on a platform where you will
+earn points for the challenges that you complete. At the end of the week, the
+participant who earns the most points will be crowned as the winner. The
+platform can be found by clicking the button below this text.
+
 <div style="margin-top: 16px">
     <br><a id="home-button" href="http://35.246.49.218:8000/" target="_blank">To the Challenges!</a><br>
 </div>
