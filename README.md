@@ -13,3 +13,10 @@ You may also need to run `bundle config set path 'vendor/bundle'`.
 
 Then you can run the site using `bundle exec jekyll serve` and open it by going
 to **localhost:4000** in your web browser.
+
+## Adding custom CSS styling
+
+Add a `.scss` file to the `_sass/` directory.
+
+Make sure you add the new file to the `_sass/type-on-strap.scss` file using
+`@import ...`.
