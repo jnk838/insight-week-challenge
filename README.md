@@ -29,8 +29,7 @@ Then add the details of the challenge to the `_data/challenges.yml` file.
 
 # CTFd Instance
 
-There is currently an instance of *CTFd* running on
-[this IP address](35.246.49.218:8000).
+There is currently an instance of *CTFd* running on *35.246.49.218:8000*.
 
 Not sure if this will be the best way to take answers from participants, but
 for now we can think about how best to use it.
