@@ -20,3 +20,9 @@ Add a `.scss` file to the `_sass/` directory.
 
 Make sure you add the new file to the `_sass/type-on-strap.scss` file using
 `@import ...`.
+
+## Adding challenges
+
+Write up the challenge as a markdown file in the `pages/challenges/` directory.
+
+Then add the details of the challenge to the `_data/challenges.yml` file.
