@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Challenges
+title: Challenge List
 permalink: /challenges/
 ---
 
