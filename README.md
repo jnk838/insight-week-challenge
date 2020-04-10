@@ -1,12 +1,17 @@
 # PwC Insight Week Challenge Site
 
+## Theme
+
+Colours from PwC branding can be found
+[here](https://www.schemecolor.com/pricewaterhousecoopers-pwc-logo.php)
+
 ## Running the site locally
 
 First of all, you will need to install Ruby.
 
 Then you can run `gem install bundler`.
 
-One bundler has been installed, navigate to this directory, and install the
+Once bundler has been installed, navigate to this directory, and install the
 requirements for the site using `bundle install`.
 
 You may also need to run `bundle config set path 'vendor/bundle'`.
