@@ -1,6 +1,6 @@
 # PwC Insight Week Challenge Site
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5dd767df-b306-4a22-8d46-2b1bbba4ee5f/deploy-status)](https://app.netlify.com/sites/sharp-tesla-6f4152/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dd767df-b306-4a22-8d46-2b1bbba4ee5f/deploy-status)](https://app.netlify.com/sites/insight-week-challenge/deploys)
 
 ## Theme
 
