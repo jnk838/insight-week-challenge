@@ -1,9 +1,9 @@
 - name: Welcome
   difficulty: 1
   link: ./welcome
-- name: Two
+- name: It's Broken???
   difficulty: 2
-  link: ./two
+  link: ./broken
 - name: Three
   difficulty: 3
   link: ./three
