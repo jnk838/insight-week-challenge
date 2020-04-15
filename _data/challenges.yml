@@ -1,6 +1,6 @@
-- name: One
+- name: Welcome
   difficulty: 1
-  link: ./one
+  link: ./welcome
 - name: Two
   difficulty: 2
   link: ./two
