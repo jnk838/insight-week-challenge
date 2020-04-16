@@ -22,7 +22,7 @@ Challenges are grouped by their difficulty.
   {% for challenge in site.data.challenges %}
     {% if challenge.difficulty == 1 %}
       <div class="challenge-container">
-        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a><br>
+        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a>
       </div>
     {% endif %}
   {% endfor %}
@@ -34,7 +34,7 @@ Challenges are grouped by their difficulty.
   {% for challenge in site.data.challenges %}
     {% if challenge.difficulty == 2 %}
       <div class="challenge-container">
-        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a><br>
+        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a>
       </div>
     {% endif %}
   {% endfor %}
@@ -46,7 +46,7 @@ Challenges are grouped by their difficulty.
   {% for challenge in site.data.challenges %}
     {% if challenge.difficulty == 3 %}
       <div class="challenge-container">
-        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a><br>
+        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a>
       </div>
     {% endif %}
   {% endfor %}

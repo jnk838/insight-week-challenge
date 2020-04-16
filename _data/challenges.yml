@@ -4,6 +4,6 @@
 - name: It's Broken???
   difficulty: 2
   link: ./broken
-- name: Three
-  difficulty: 3
-  link: ./three
+- name: Hidden
+  difficulty: 1
+  link: ./hidden
