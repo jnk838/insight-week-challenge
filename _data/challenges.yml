@@ -7,3 +7,6 @@
 - name: Hidden
   difficulty: 1
   link: ./hidden
+- name: Password
+  difficulty: 3
+  link: ./password
