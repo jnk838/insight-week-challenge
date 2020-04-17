@@ -28,3 +28,6 @@
 - name: Principles
   difficulty: 2
   link: ./principles
+- name: Can't Hack It
+  difficulty: 3
+  link: ./hack-it
