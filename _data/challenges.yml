@@ -14,5 +14,17 @@
   difficulty: 1
   link: ./silly-string
 - name: Gone Fishing
-  difficulty: 3
+  difficulty: 2
   link: ./gone-fishing
+- name: Landmark
+  difficulty: 3
+  link: ./landmark
+- name: Call Me
+  difficulty: 2
+  link: ./call-me
+- name: A Bit Tipsy
+  difficulty: 1
+  link: ./tipsy
+- name: Principles
+  difficulty: 2
+  link: ./principles
