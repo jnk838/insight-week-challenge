@@ -10,3 +10,6 @@
 - name: Password
   difficulty: 3
   link: ./password
+- name: Silly String
+  difficulty: 1
+  link: ./silly-string
