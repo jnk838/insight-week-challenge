@@ -9,7 +9,7 @@ But he started it!
 
 ![alt text][dialfreq]
 
-[dialfreq]: /assets/img/eurika.png "Found It!"
+[dialfreq]: /assets/img/blocks.png "Found It!"
 
 ---
 
