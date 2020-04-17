@@ -13,3 +13,6 @@
 - name: Silly String
   difficulty: 1
   link: ./silly-string
+- name: Gone Fishing
+  difficulty: 3
+  link: ./gone-fishing

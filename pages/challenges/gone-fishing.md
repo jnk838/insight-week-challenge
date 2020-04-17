@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Welcome
+title: Gone Fishing
 permalink: /challenges/welcome
 hide: true
 ---
 
-I appear to have dropped my welcome message - its somehow been scrambled up...
+I got a bit lost...
 
-Here it is: `I0IZD09AEI9HG19HFRIsD0uOGRkSGxqSHj==`
-
-Please decode it for me, and then submit it on the submission platform.
+5.862820, -162.065766
