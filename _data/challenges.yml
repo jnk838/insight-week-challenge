@@ -31,3 +31,9 @@
 - name: Can't Hack It
   difficulty: 3
   link: ./hack-it
+- name: To Infinity and Beyond
+  difficulty: 1
+  link: ./to-infinity-and-beyond
+- name: Fatal
+  difficulty: 1
+  link: ./fatal

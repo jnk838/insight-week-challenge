@@ -5,11 +5,11 @@ permalink: /challenges/hack-it
 hide: true
 ---
 
-Become a hacker quick! 
+### Become a hacker quick!
 
-[I Might Help You](https://hackertyper.net "I Might Help You")
+[Click Here](https://hackertyper.net "I Might Help You")
 
-Decode this ...
+#### Decode this ...
 
 15-4
 55-1
@@ -24,4 +24,8 @@ Decode this ...
 59-1
 261-1
 
-Hint: An acryonm.
+###### Hint: An acryonm.
+
+---
+
+ANSWER - Write_it_now

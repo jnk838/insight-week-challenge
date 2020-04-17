@@ -5,10 +5,15 @@ permalink: /challenges/call-me
 hide: true
 ---
 
+I realised that someone had a keylistener on my phone, so dialed the wrong pin.
 What is the pin number that was dialed?
 
 ![alt text][dialfreq]
 
 [dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
 
-Hint: Look into DTMF.
+###### Hint: Look into DTMF.
+
+---
+
+Answer = 4507

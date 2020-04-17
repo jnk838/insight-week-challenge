@@ -5,8 +5,12 @@ permalink: /challenges/principles
 hide: true
 ---
 
-Who said what?
+But he started it!
 
 ![alt text][dialfreq]
 
 [dialfreq]: /assets/img/eurika.png "Found It!"
+
+---
+
+ANSWER - Archemedes
