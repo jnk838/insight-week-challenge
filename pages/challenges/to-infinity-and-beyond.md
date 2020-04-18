@@ -5,7 +5,7 @@ permalink: /challenges/to-infinity-and-beyond
 hide: true
 ---
 
-#### Ever look up and night and wonder what you're seeing?
+#### Ever look up at night and wonder what you're seeing?
 
 [Find Out What is in the Night Sky](http://stars.chromeexperiments.com "I Might Help You")
 
