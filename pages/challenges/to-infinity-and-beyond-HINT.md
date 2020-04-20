@@ -1,7 +1,7 @@
 ---
 layout: page
 title: To Infinity and Beyond
-permalink: /challenges/to-infinity-and-beyond
+permalink: /challenges/to-infinity-and-beyond-HINT
 hide: true
 ---
 
@@ -17,6 +17,6 @@ hide: true
 
 ---
 
-###### [Hint](../challenges/to-infinity-and-beyond-HINT/)
+###### Hint: Underscore between each star
 
 <!-- Answer = lalande_groombridge_hr -->

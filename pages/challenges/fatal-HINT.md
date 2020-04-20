@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fatal
-permalink: /challenges/fatal
+permalink: /challenges/fatal-HINT
 hide: true
 ---
 
@@ -11,6 +11,6 @@ NARSARUAQ W-87
 
 ---
 
-###### [Hint](../challenges/fatal-HINT/)
+###### [Hint: Website Link](https://outrider.org/nuclear-weapons/interactive/bomb-blast/ "I Might Help You")
 
 <!-- ANSWER - 161 -->

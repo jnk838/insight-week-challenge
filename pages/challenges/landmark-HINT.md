@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Landmark
-permalink: /challenges/landmark
+permalink: /challenges/landmark-HINT
 hide: true
 ---
 
@@ -11,6 +11,6 @@ I think I made a mistake, whoops.
 
 ---
 
-###### [Hint](../challenges/landmark-HINT/)
+##### Hint: What is the landmark?
 
 <!-- Answer = carhenge -->

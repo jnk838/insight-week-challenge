@@ -11,6 +11,4 @@ But he started it!
 
 [dialfreq]: /assets/img/blocks.png "Found It!"
 
----
-
-ANSWER - Archemedes
+<!-- ANSWER - Archemedes -->

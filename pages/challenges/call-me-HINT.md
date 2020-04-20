@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call Me
-permalink: /challenges/call-me
+permalink: /challenges/call-me-HINT
 hide: true
 ---
 
@@ -14,6 +14,6 @@ What is the pin number that was dialed?
 
 ---
 
-###### [Hint](../challenges/call-me-HINT/)
+###### Hint: DTMF
 
 <!-- Answer = 4507 -->

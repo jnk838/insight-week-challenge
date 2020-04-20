@@ -11,6 +11,4 @@ What on earth is going on here?
 
 [dialfreq]: /assets/img/tilt.png "Look from a different perspective"
 
----
-
-Answer = Hello World
+<!-- Answer = Hello World -->

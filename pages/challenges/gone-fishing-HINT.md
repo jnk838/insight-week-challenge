@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gone Fishing
-permalink: /challenges/gone-fishing
+permalink: /challenges/gone-fishing-HINT
 hide: true
 ---
 
@@ -11,6 +11,6 @@ I got a bit lost...
 
 ---
 
-###### [Hint](../challenges/gone-fishing-HINT/)
+###### Hint: Creature
 
 <!-- Answer - Snapper -->

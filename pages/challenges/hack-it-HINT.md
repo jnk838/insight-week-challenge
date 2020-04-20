@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Can't Hack It
-permalink: /challenges/hack-it
+permalink: /challenges/hack-it-HINT
 hide: true
 ---
 
@@ -26,6 +26,6 @@ hide: true
 
 ---
 
-###### [Hint](../challenges/hack-it-HINT/)
+###### Hint: An acryonm.
 
 <!-- ANSWER - Write_it_now -->
