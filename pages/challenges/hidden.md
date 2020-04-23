@@ -14,3 +14,5 @@ from view?
 </svg>
 
 If you can find it, submit the string as the answer to this challenge.
+
+---

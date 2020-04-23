@@ -30,6 +30,8 @@ hide: true
 
 <!-- ANSWER - Write_it_now -->
 
+---
+
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>

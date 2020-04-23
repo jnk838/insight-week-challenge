@@ -15,6 +15,8 @@ I got a bit lost...
 
 <!-- Answer - Snapper -->
 
+---
+
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>

@@ -18,6 +18,8 @@ What is the pin number that was dialed?
 
 <!-- Answer = 4507 -->
 
+---
+
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>

@@ -21,6 +21,8 @@ hide: true
 
 <!-- Answer = lalande_groombridge_hr -->
 
+---
+
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>
