@@ -15,3 +15,9 @@ get into my computer.
 
 Annoyingly, the login manager doesn't believe that it is possible for anyone to
 have a password of just '`password`', so it will remove it from your input.
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('password', document.getElementById('submission').value)">
+</form>

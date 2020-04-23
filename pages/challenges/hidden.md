@@ -14,3 +14,9 @@ from view?
 </svg>
 
 If you can find it, submit the string as the answer to this challenge.
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('hidden', document.getElementById('submission').value)">
+</form>
