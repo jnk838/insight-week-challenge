@@ -14,3 +14,9 @@ I think I made a mistake, whoops.
 ###### [Hint](../challenges/landmark-HINT/)
 
 <!-- Answer = carhenge -->
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('landmark', document.getElementById('submission').value)">
+</form>
