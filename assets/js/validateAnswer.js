@@ -7,11 +7,6 @@ function checkAnswer(challenge, submission) {
 
     HTTP.open("POST", url);
     HTTP.setRequestHeader("Content-Type", "application/json");
-    HTTP.onreadystatechange = function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-            console.log(HTTP.responseText);
-        }
-    };
     HTTP.send(json_up);
 
     response = HTTP.responseText;
