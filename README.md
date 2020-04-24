@@ -40,6 +40,19 @@ Then add the details of the challenge to the `_data/challenges.yml` file.
 | Medium               | 2      |
 | Hard                 | 3      |
 
+To allow participants to check their solutions, add the following code to the
+end of your challenge. Swap **CHALLENGE_NAME** for an identifier for your
+challenge and provide me (Jacob) with the solution so I can add it to my
+backend code.
+
+```html
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('CHALLENGE_NAME', document.getElementById('submission').value)">
+</form>
+```
+
 # CTFd Instance
 
 There is currently an instance of *CTFd* running on *35.246.49.218:8000*.
