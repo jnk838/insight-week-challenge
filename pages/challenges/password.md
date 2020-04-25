@@ -16,24 +16,6 @@ get into my computer.
 Annoyingly, the login manager doesn't believe that it is possible for anyone to
 have a password of just '`password`', so it will remove it from your input.
 
-```python
-import os
-
-print("Welcome to my very secure computer!")
-print("To be able to login, you'll need a password.")
-
-userPass = str(input("Please enter your password: "))
-
-if "password" in userPass:
-  userPass = userPass.replace("password","")
-
-if userPass == "password":
-  print("Password is correct, welcome back.")
-  print("The token for this challenge is:", os.getenv("TOKEN"))
-else:
-  print("Password is not correct, try again.")
-```
-
 ---
 <form>
     <label for="answer">Answer:</label><br>

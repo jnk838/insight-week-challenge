@@ -11,9 +11,10 @@ But he started it!
 
 [dialfreq]: /assets/img/blocks.png "Found It!"
 
-<!-- ANSWER - Archemedes -->
+<!-- ANSWER - ARCHEMEDES -->
 
 ---
+The solution to this challenge is made up of just one word.
 
 <form>
     <label for="answer">Answer:</label><br>
