@@ -11,6 +11,16 @@ I got a bit lost...
 
 ---
 
-###### [Hint](../challenges/gone-fishing-HINT/)
-
 <!-- Answer - Snapper -->
+
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        What is the creature?
+      </p>
+    </div>
+  </div>
+</div>
