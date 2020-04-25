@@ -15,11 +15,21 @@ hide: true
 1618
 573
 
+<!-- Answer = lalande_groombridge_hr -->
+
 ---
 
-###### [Hint](../challenges/to-infinity-and-beyond-HINT/)
-
-<!-- Answer = lalande_groombridge_hr -->
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        Add an underscore between each star.
+      </p>
+    </div>
+  </div>
+</div>
 
 ---
 

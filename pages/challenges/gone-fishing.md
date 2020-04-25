@@ -9,11 +9,21 @@ I got a bit lost...
 
 5.862820, -162.065766
 
+<!-- Answer - Snapper -->
+
 ---
 
-###### [Hint](../challenges/gone-fishing-HINT/)
-
-<!-- Answer - Snapper -->
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        What is the creature?
+      </p>
+    </div>
+  </div>
+</div>
 
 ---
 

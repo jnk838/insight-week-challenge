@@ -24,11 +24,21 @@ hide: true
 
 [You'll need to click this link](https://hackertyper.net "I Might Help You")
 
+<!-- ANSWER - Write_it_now -->
+
 ---
 
-###### [Hint](../challenges/hack-it-HINT/)
-
-<!-- ANSWER - Write_it_now -->
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        An acronym.
+      </p>
+    </div>
+  </div>
+</div>
 
 ---
 

@@ -12,11 +12,21 @@ What is the pin number that was dialed?
 
 [dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
 
+<!-- Answer = 4507 -->
+
 ---
 
-###### [Hint](../challenges/call-me-HINT/)
-
-<!-- Answer = 4507 -->
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        Look into DTMF.
+      </p>
+    </div>
+  </div>
+</div>
 
 ---
 
