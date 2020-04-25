@@ -15,7 +15,7 @@ hide: true
 1618
 573
 
-<!-- Answer = lalande_groombridge_hr -->
+<!-- Answer = LALANDE_GROOMBRIDGE_HR -->
 
 ---
 

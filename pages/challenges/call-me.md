@@ -12,7 +12,7 @@ What is the pin number that was dialed?
 
 [dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
 
-<!-- Answer = 4507 -->
+<!-- Answer - FOUR_FIVE_ZERO_SEVEN -->
 
 ---
 
@@ -29,6 +29,9 @@ What is the pin number that was dialed?
 </div>
 
 ---
+
+The words that make up the solution to this challenge are the spelled out form
+of numbers.
 
 <form>
     <label for="answer">Answer:</label><br>

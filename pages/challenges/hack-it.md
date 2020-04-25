@@ -24,7 +24,7 @@ hide: true
 
 [You'll need to click this link](https://hackertyper.net "I Might Help You")
 
-<!-- ANSWER - Write_it_now -->
+<!-- Answer - WRITE_IT_NOW -->
 
 ---
 

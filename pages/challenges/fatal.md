@@ -9,7 +9,7 @@ You may want to overthink this, what is the fatality?
 
 NARSARUAQ W-87
 
-<!-- ANSWER - 161 -->
+<!-- Answer - ONE_SIX_ONE -->
 
 ---
 
@@ -26,6 +26,8 @@ NARSARUAQ W-87
 </div>
 
 ---
+The words that make up the solution to this challenge are the spelled out form
+of numbers.
 
 <form>
     <label for="answer">Answer:</label><br>

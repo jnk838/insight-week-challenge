@@ -26,6 +26,7 @@ I got a bit lost...
 </div>
 
 ---
+The solution to this challenge is made up of just one word.
 
 <form>
     <label for="answer">Answer:</label><br>
