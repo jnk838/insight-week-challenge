@@ -9,9 +9,9 @@ I think I made a mistake, whoops.
 
 34322e3134323339362c202d3130322e383538373831
 
----
+<!-- Answer - CARHENGE -->
 
-<!-- Answer = carhenge -->
+---
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -24,3 +24,12 @@ I think I made a mistake, whoops.
     </div>
   </div>
 </div>
+
+---
+The solution to this challenge is made up of just one word.
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('landmark', document.getElementById('submission').value)">
+</form>

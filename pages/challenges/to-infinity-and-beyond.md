@@ -15,9 +15,9 @@ hide: true
 1618
 573
 
----
+<!-- Answer = LALANDE_GROOMBRIDGE_HR -->
 
-<!-- Answer = lalande_groombridge_hr -->
+---
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -30,3 +30,11 @@ hide: true
     </div>
   </div>
 </div>
+
+---
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('to-infinity-and-beyond', document.getElementById('submission').value)">
+</form>

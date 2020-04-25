@@ -12,9 +12,9 @@ What is the pin number that was dialed?
 
 [dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
 
----
+<!-- Answer - FOUR_FIVE_ZERO_SEVEN -->
 
-<!-- Answer = 4507 -->
+---
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -27,3 +27,14 @@ What is the pin number that was dialed?
     </div>
   </div>
 </div>
+
+---
+
+The words that make up the solution to this challenge are the spelled out form
+of numbers.
+
+<form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('call-me', document.getElementById('submission').value)">
+</form>
