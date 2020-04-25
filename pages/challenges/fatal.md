@@ -11,6 +11,16 @@ NARSARUAQ W-87
 
 ---
 
-###### [Hint](../challenges/fatal-HINT/)
-
 <!-- ANSWER - 161 -->
+
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        <a href="https://outrider.org/nuclear-weapons/interactive/bomb-blast/">This link might be helpful.</a>
+      </p>
+    </div>
+  </div>
+</div>

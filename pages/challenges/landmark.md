@@ -11,6 +11,16 @@ I think I made a mistake, whoops.
 
 ---
 
-###### [Hint](../challenges/landmark-HINT/)
-
 <!-- Answer = carhenge -->
+
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        What is the landmark?
+      </p>
+    </div>
+  </div>
+</div>

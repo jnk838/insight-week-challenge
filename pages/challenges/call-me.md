@@ -14,6 +14,16 @@ What is the pin number that was dialed?
 
 ---
 
-###### [Hint](../challenges/call-me-HINT/)
-
 <!-- Answer = 4507 -->
+
+<div class="wrap-collapsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Hint</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        Look into DTMF.
+      </p>
+    </div>
+  </div>
+</div>
