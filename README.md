@@ -52,10 +52,3 @@ backend code.
     <input type="submit" value="Submit" onclick="javascript:checkAnswer('CHALLENGE_NAME', document.getElementById('submission').value)">
 </form>
 ```
-
-# CTFd Instance
-
-There is currently an instance of *CTFd* running on *35.246.49.218:8000*.
-
-Not sure if this will be the best way to take answers from participants, but
-for now we can think about how best to use it.

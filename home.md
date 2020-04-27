@@ -10,5 +10,5 @@ participant who earns the most points will be crowned as the winner. The
 platform can be found by clicking the button below this text.
 
 <div style="margin-top: 16px">
-    <br><a id="home-button" href="http://35.246.49.218:8000/" target="_blank">To the Challenges!</a><br>
+    <br><a id="home-button" href="./challenges">To the Challenges!</a><br>
 </div>

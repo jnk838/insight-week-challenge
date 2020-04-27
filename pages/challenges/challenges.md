@@ -8,7 +8,7 @@ This page contains all of the challenges which you can complete over the course
 of this event.
 
 The answers to all of the challenges will usually be words separated by
-underscores. The case of letters in your answers is not important.
+underscores. The case of letters in your answers is **not important**.
 
 Example: **THIS_IS_AN_EXAMPLE**.
 
@@ -16,15 +16,6 @@ If a challenge requires an answer that does not fit this format then it will be
 clearly indicated in the page for that challenge.
 
 ---
-
-To be able to submit your responses, please click the button below.
-
-<div style="margin-top: 16px">
-    <br><a id="home-button" href="http://35.246.49.218:8000/" target="_blank">To the Challenges!</a><br>
-</div>
-<br>
-
-Challenges are grouped by their difficulty.
 
 ## Easy:
 
