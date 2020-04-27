@@ -4,27 +4,30 @@ title: What, Three Words?
 permalink: /challenges/three-words
 hide: true
 ---
-### What, Three Words?
+
+What words represent these coordinates?
 
 -18.474356, 127.662503
 
-Include the dots!
-
-<!-- Answer - price.water.house -->
+<!-- Answer - PRICE_WATER_HOUSE -->
 
 ---
+
 <div class="wrap-collapsible">
     <input id="collapsible" class="toggle" type="checkbox">
     <label for="collapsible" class="lbl-toggle">Hint</label>
     <div class="collapsible-content">
         <div class="content-inner">
             <p>
-                three words...
+                Three words...
             </p>
         </div>
     </div>
 </div>
+
 ---
+Make sure to swap the dots for underscores!
+
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>
