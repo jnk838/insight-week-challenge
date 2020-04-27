@@ -34,3 +34,6 @@
 - name: Fatal
   difficulty: 1
   link: ./fatal
+- name: What, 3 Words?
+  difficulty: 1
+  link: ./three-words
