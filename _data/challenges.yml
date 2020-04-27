@@ -37,3 +37,12 @@
 - name: Elementary
   difficulty: 2
   link: ./elementary
+- name: Rainbows
+  difficulty: 3
+  link: ./rainbows
+- name: Rubix
+  difficulty: 2
+  link: ./rubix
+- name: Alchemist
+  difficulty: 3
+  link: ./alchemist

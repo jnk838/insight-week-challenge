@@ -5,8 +5,8 @@ permalink: /challenges/hidden
 hide: true
 ---
 
-I wrote down the answer on this page, but somehow it seems to have been blocked
-from view?
+I wrote down the answer on this page, but somehow it seems to have been blocked from view?
+
 
 <svg width="300" height="50">
     <text x="0" y="15" fill="black">TOLD_YOU_IT_WAS_HERE</text>

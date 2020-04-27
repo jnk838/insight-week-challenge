@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Call Me
-permalink: /challenges/call-me
+title: Rubix
+permalink: /challenges/rubix
 hide: true
 ---
 
-#### What is the pin number that the attackers tried?
+#### What happens if you play the following moves on a Rubix cube?
+##### The moves have been shifted.
 
-I realised that someone was listening to my dial frequency, so dialed the wrong pin on purpose to throw the attackers.
+CMENFYZGSVTFZYNGSVAEMC
 
-![alt text][dialfreq]
+[Click here to open the rubix cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You")
+ 
+##### What is the middle row of colours?
 
-[dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
-
-<!-- Answer - FOUR_FIVE_ZERO_SEVEN -->
+<!-- Answer - GREEN_RED_BLUE -->
+<!-- BLDMEXYFRUSEYXMFRUZDLB -->
 
 ---
 
@@ -23,7 +25,7 @@ I realised that someone was listening to my dial frequency, so dialed the wrong 
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        Look into DTMF.
+        Shift by ((108+(119*28)-10)/343)+17
       </p>
     </div>
   </div>
@@ -31,8 +33,7 @@ I realised that someone was listening to my dial frequency, so dialed the wrong 
 
 ---
 
-The words that make up the solution to this challenge are the spelled out form
-of numbers.
+The token is the three colours in the middle row, seperated by underscores.
 
 <form>
     <label for="answer">Answer:</label><br>

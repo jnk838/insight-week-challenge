@@ -5,9 +5,9 @@ permalink: /challenges/hack-it
 hide: true
 ---
 
-### Become a hacker quick!
+#### Become a hacker quick!
 
-#### Decode this ...
+##### Decode this ...
 
 15-4
 55-1

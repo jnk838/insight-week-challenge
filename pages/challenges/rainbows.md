@@ -1,19 +1,23 @@
 ---
 layout: page
-title: Call Me
-permalink: /challenges/call-me
+title: Rainbows
+permalink: /challenges/rainbows
 hide: true
 ---
 
-#### What is the pin number that the attackers tried?
+#### What do these codes all represent?
 
-I realised that someone was listening to my dial frequency, so dialed the wrong pin on purpose to throw the attackers.
+Code 1: 4285F4, DB4437, F4B400, 4285F4, 0F9D58, DB4437
+ 
+Code 2: 66 133 244, 219 68 55, 244 180 0, 66 133 244, 15 157 88, 219 68 55
+ 
+Code 3: 88 50 0 0, 0 78 85 12, 0 20 90 0, 88 50 0 0, 82 0 67 11, 0 78 85 12
+ 
+Code 4: PMS 660 C, PMS 7619 C, PMS 123 C, PMS 660 C, PMS 7724 C, PMS 7619 C
 
-![alt text][dialfreq]
+#### What company do they point to?
 
-[dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
-
-<!-- Answer - FOUR_FIVE_ZERO_SEVEN -->
+<!-- Answer - GOOGLE -->
 
 ---
 
@@ -23,7 +27,7 @@ I realised that someone was listening to my dial frequency, so dialed the wrong 
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        Look into DTMF.
+        Code 1 is Hex
       </p>
     </div>
   </div>
@@ -31,8 +35,7 @@ I realised that someone was listening to my dial frequency, so dialed the wrong 
 
 ---
 
-The words that make up the solution to this challenge are the spelled out form
-of numbers.
+The token is the name of the company. It consists of one word.
 
 <form>
     <label for="answer">Answer:</label><br>
