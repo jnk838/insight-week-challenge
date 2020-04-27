@@ -10,9 +10,7 @@ hide: true
 
 <br/>
 
-Stage 1: What can I make with just a desert and water?
-
-Stage 2: What word links this answer to the title of this challenge?
+What can I make with just a desert and water?
 
 <br/>
 
@@ -20,7 +18,7 @@ Stage 2: What word links this answer to the title of this challenge?
  
 [Little Alchemy](https://littlealchemy.com "I Might Help You")
 
-<!-- Answer - Ossia -->
+<!-- Answer - Oasis -->
 
 ---
 
@@ -30,21 +28,7 @@ Stage 2: What word links this answer to the title of this challenge?
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-       Stage 1: Find on a browser is incredibly helpful
-      </p>
-    </div>
-  </div>
-</div>
-
-<br/>
-
-<div class="wrap-collapsible">
-  <input id="collapsible2" class="toggle" type="checkbox">
-  <label for="collapsible2" class="lbl-toggle">Hint 2</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        Stage 2: An anagram
+       Find on a browser is incredibly helpful
       </p>
     </div>
   </div>
@@ -57,5 +41,5 @@ The token the answer to stage two. It is one word.
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('call-me', document.getElementById('submission').value)">
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('alchemist', document.getElementById('submission').value)">
 </form>

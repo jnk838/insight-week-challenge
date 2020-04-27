@@ -12,9 +12,9 @@ CMENFYZGSVTFZYNGSVAEMC
 
 [Click here to open the rubix cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You")
  
-##### What is the middle row of colours?
+##### What is the top corner, nearest you, that is generated?
 
-<!-- Answer - GREEN_RED_BLUE -->
+<!-- Answer - YELLOW_GREEN_RED -->
 <!-- BLDMEXYFRUSEYXMFRUZDLB -->
 
 ---
@@ -33,10 +33,10 @@ CMENFYZGSVTFZYNGSVAEMC
 
 ---
 
-The token is the three colours in the middle row, seperated by underscores.
+The token is the top corner nearest you. Your token should be in the format of LEFTCOLOUR_TOPCOLOUR_RIGHTCOLOUR
 
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('call-me', document.getElementById('submission').value)">
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rubix', document.getElementById('submission').value)">
 </form>
