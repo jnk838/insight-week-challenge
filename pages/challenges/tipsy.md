@@ -5,7 +5,8 @@ permalink: /challenges/tipsy
 hide: true
 ---
 
-What on earth is going on here?
+#### What on earth is going on here?
+##### Just say what you see!
 
 ![alt text][dialfreq]
 

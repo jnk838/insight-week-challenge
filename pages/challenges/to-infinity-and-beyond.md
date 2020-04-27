@@ -9,11 +9,13 @@ hide: true
 
 [Find Out What is in the Night Sky](http://stars.chromeexperiments.com "I Might Help You")
 
-##### I see numbers ...
+##### I see the following numbers ...
 
 21185
 1618
 573
+
+##### But what are those stars called?
 
 <!-- Answer = LALANDE_GROOMBRIDGE_HR -->
 
