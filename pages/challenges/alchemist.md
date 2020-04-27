@@ -24,7 +24,7 @@ What can I make with just a desert and water?
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Hint 1</label>
+  <label for="collapsible" class="lbl-toggle">Hint</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
