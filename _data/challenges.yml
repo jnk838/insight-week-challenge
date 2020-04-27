@@ -34,3 +34,6 @@
 - name: Fatal
   difficulty: 1
   link: ./fatal
+- name: Elementary
+  difficulty: 2
+  link: ./elementary
