@@ -52,3 +52,18 @@ backend code.
     <input type="submit" value="Submit" onclick="javascript:checkAnswer('CHALLENGE_NAME', document.getElementById('submission').value)">
 </form>
 ```
+
+If you want to add a hint to your challenge, use the following code:
+```html
+<div class="wrap-collapsible">
+    <input id="collapsible" class="toggle" type="checkbox">
+    <label for="collapsible" class="lbl-toggle">Hint</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+            <p>
+                Your hint goes here.
+            </p>
+        </div>
+    </div>
+</div>
+```
