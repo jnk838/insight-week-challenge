@@ -5,7 +5,7 @@ permalink: /challenges/elementary
 hide: true
 ---
 
-The following list of elements contains a secret message:
+#### The following list of elements contains a secret message:
 
 Mercury,
 Lead,

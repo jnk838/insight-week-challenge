@@ -5,9 +5,11 @@ permalink: /challenges/fatal
 hide: true
 ---
 
-You may want to overthink this, what is the fatality?
+#### What is the fatality of the following?
 
 NARSARUAQ W-87
+
+##### You'll need to work out what is written above and discover the fatality.
 
 <!-- Answer - ONE_SIX_ONE -->
 

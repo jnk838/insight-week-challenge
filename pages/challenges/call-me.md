@@ -5,8 +5,9 @@ permalink: /challenges/call-me
 hide: true
 ---
 
-I realised that someone had a keylistener on my phone, so dialed the wrong pin.
-What is the pin number that was dialed?
+#### What is the pin number that the attackers tried?
+
+I realised that someone was listening to my dial frequency, so dialed the wrong pin on purpose to throw the attackers.
 
 ![alt text][dialfreq]
 

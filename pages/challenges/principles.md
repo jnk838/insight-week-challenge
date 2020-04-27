@@ -5,7 +5,8 @@ permalink: /challenges/principles
 hide: true
 ---
 
-But he started it!
+#### But he started it!
+##### Who is he?
 
 ![alt text][dialfreq]
 

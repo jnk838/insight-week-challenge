@@ -21,3 +21,4 @@ test/*
 
 vendor/bundle
 .vscode/
+.DS_Store
