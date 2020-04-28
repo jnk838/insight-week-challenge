@@ -43,9 +43,9 @@
 - name: Rainbows
   difficulty: 3
   link: ./rainbows
-- name: Rubix
+- name: Rubik's
   difficulty: 2
-  link: ./rubix
-- name: Alchemist
+  link: ./rubik
+- name: Musical Alchemist
   difficulty: 3
   link: ./alchemist

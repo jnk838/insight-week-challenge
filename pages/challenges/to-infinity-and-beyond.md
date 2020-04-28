@@ -9,7 +9,7 @@ Ever look up at night and wonder what you're seeing? [Use this link to find out!
 
 What stars are represented by the following numbers?
 
-`21185`, `1618`, `573`
+`21185`, `1618`, `753`
 
 <!-- Answer = LALANDE_GROOMBRIDGE_HR -->
 

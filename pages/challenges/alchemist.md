@@ -17,7 +17,7 @@ This website may help you: [Little Alchemy](https://littlealchemy.com "I might h
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Hint 1</label>
+  <label for="collapsible" class="lbl-toggle">Hint</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
