@@ -7,7 +7,7 @@ hide: true
 
 #### What is the fatality of the following?
 
-NARSARUAQ W-87
+NARSARSUAQ W-87
 
 ##### You'll need to work out what is written above and discover the fatality.
 
