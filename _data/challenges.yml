@@ -49,3 +49,6 @@
 - name: Musical Alchemist
   difficulty: 3
   link: ./alchemist
+- name: Look Closely
+  difficulty: 1
+  link: ./look-closely
