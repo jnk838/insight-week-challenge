@@ -5,17 +5,11 @@ permalink: /challenges/to-infinity-and-beyond
 hide: true
 ---
 
-#### Ever look up at night and wonder what you're seeing?
+Ever look up at night and wonder what you're seeing? [Use this link to find out!](http://stars.chromeexperiments.com "I might help you")
 
-[Find Out What is in the Night Sky](http://stars.chromeexperiments.com "I Might Help You")
+What stars are represented by the following numbers?
 
-##### I see the following numbers ...
-
-21185
-1618
-573
-
-##### But what are those stars called?
+`21185`, `1618`, `573`
 
 <!-- Answer = LALANDE_GROOMBRIDGE_HR -->
 

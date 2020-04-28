@@ -5,9 +5,10 @@ permalink: /challenges/hack-it
 hide: true
 ---
 
-#### Become a hacker quick!
+As computer science students, we can help you become a programming expert in no
+time at all! You'll just need to click this [link](https://hackertyper.net "I might help you").
 
-##### Decode this ...
+Decode this...
 
 15-4
 55-1
@@ -21,8 +22,6 @@ hide: true
 7-2
 59-1
 261-1
-
-[You'll need to click this link](https://hackertyper.net "I Might Help You")
 
 <!-- Answer - WRITE_IT_NOW -->
 

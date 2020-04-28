@@ -5,11 +5,11 @@ permalink: /challenges/fatal
 hide: true
 ---
 
-#### What is the fatality of the following?
+What is the fatality of the following?
 
-NARSARUAQ W-87
+`NARSARSUAQ, W-87`
 
-##### You'll need to work out what is written above and discover the fatality.
+You'll need to figure out what the text above this line means and discover the fatality.
 
 <!-- Answer - ONE_SIX_ONE -->
 

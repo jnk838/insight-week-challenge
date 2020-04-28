@@ -5,9 +5,9 @@ permalink: /challenges/elementary
 hide: true
 ---
 
-#### The following list of elements contains a secret message:
+The following list of elements contains a secret message:
 
-Mercury,
+`Mercury,
 Lead,
 Thulium,
 Polonium,
@@ -25,7 +25,7 @@ Lead,
 Tantalum,
 Lutetium,
 Hafnium,
-Polonium
+Polonium`
 
 ---
 
