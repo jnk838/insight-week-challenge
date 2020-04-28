@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Rubix
-permalink: /challenges/rubix
+title: Rubik's
+permalink: /challenges/rubik
 hide: true
 ---
 
-#### What happens if you play the following moves on a Rubix cube?
+#### What happens if you play the following moves on a Rubik's cube?
 ##### The moves have been shifted.
 
-CMENFYZGSVTFZYNGSVAEMC
+cmenfyzgsvtfzyngsvaemc
 
-[Click here to open the rubix cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You")
+[Click here to open the rubik's cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You")
  
 ##### What is the top corner, nearest you, that is generated?
 
 <!-- Answer - YELLOW_GREEN_RED -->
-<!-- BLDMEXYFRUSEYXMFRUZDLB -->
+<!-- bldmexyfruseyxmfruzdlb -->
 
 ---
 
@@ -38,5 +38,5 @@ The token is the top corner nearest you. Your token should be in the format of L
 <form>
     <label for="answer">Answer:</label><br>
     <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rubix', document.getElementById('submission').value)">
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rubik', document.getElementById('submission').value)">
 </form>
