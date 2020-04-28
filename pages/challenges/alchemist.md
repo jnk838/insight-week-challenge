@@ -36,7 +36,7 @@ What can I make with just a desert and water?
 
 ---
 
-The token the answer to stage two. It is one word.
+The token is one word.
 
 <form>
     <label for="answer">Answer:</label><br>
