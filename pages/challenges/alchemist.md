@@ -5,18 +5,11 @@ permalink: /challenges/alchemist
 hide: true
 ---
 
-#### Help out the alchemist. 
-##### Who has spelt this one out for you...
+Help out the alchemist. 
 
-<br/>
+His question is: *"What can I make with just a desert and water?"*
 
-What can I make with just a desert and water?
-
-<br/>
-
-##### This website MAY help you...
- 
-[Little Alchemy](https://littlealchemy.com "I Might Help You")
+This website may help you: [Little Alchemy](https://littlealchemy.com "I might help you")
 
 <!-- Answer - Oasis -->
 
@@ -28,7 +21,7 @@ What can I make with just a desert and water?
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-       Find on a browser is incredibly helpful
+        The <i>find</i> tool on a browser is incredibly helpful.
       </p>
     </div>
   </div>

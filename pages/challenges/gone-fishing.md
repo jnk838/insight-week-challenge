@@ -5,11 +5,11 @@ permalink: /challenges/gone-fishing
 hide: true
 ---
 
-#### I got a bit lost...  
+I got a bit lost...  
 
-5.862820, -162.065766
+These are my coordinates: `5.862820, -162.065766`.
 
-##### Help me find out who I'm with.
+Please help me find out who I'm with.
 
 <!-- Answer - Snapper -->
 

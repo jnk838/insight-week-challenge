@@ -5,14 +5,16 @@ permalink: /challenges/rubik
 hide: true
 ---
 
-#### What happens if you play the following moves on a Rubik's cube?
-##### The moves have been shifted.
+What happens if you play the following moves on a Rubik's cube?
 
-cmenfyzgsvtfzyngsvaemc
+`cmenfyzgsvtfzyngsvaemc`
 
-[Click here to open the rubik's cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You")
+But wait, it can't be that simple can it? Of course not! The sequence above has
+been encoded using a Caesar Cipher!
+
+[Click here to open the Rubik's cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You").
  
-##### What is the top corner, nearest you, that is generated?
+What colours make up the top corner (nearest to the camera) that is generated?
 
 <!-- Answer - YELLOW_GREEN_RED -->
 <!-- bldmexyfruseyxmfruzdlb -->
@@ -25,7 +27,7 @@ cmenfyzgsvtfzyngsvaemc
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        Shift by ((108+(119*28)-10)/343)+17
+        Shift by ((108+(119*28)-10)/343)+17.
       </p>
     </div>
   </div>

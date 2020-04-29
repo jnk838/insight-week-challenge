@@ -5,9 +5,11 @@ permalink: /challenges/call-me
 hide: true
 ---
 
-#### What is the pin number that the attackers tried?
+I was trying to log into my telephone banking when I got suspicious that
+somebody was listening in on my phone line. I entered the wrong PIN code on
+purpose.
 
-I realised that someone was listening to my dial frequency, so dialed the wrong pin on purpose to throw the attackers.
+What PIN code did the attackers receive?
 
 ![alt text][dialfreq]
 
