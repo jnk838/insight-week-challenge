@@ -8,7 +8,8 @@ This page contains all of the challenges which you can complete over the course
 of this event.
 
 The answers to all of the challenges will usually be words separated by
-underscores. The case of letters in your answers is **not important**.
+underscores. The case of letters in your answers is **very important**, you
+must provide your solutions using only **uppercase** letters.
 
 Example: **THIS_IS_AN_EXAMPLE**.
 

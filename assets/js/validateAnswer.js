@@ -24,6 +24,8 @@ function checkAnswer(challenge, submission) {
 
         if (response === "correct") {
           alert("Well done! That is the correct answer!");
+        } else if (response === "case") {
+          alert("You were close! Make sure your answer is only using uppercase letters!");
         } else {
           alert("Sorry, that isn't the right answer.");
         }
