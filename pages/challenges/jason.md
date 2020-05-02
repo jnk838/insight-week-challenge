@@ -10,7 +10,7 @@ the answer will be yours.
 
 ```json
 {
-    order: {
+    "order": {
         "first": "six",
         "second": "seven",
         "third": "nine",
@@ -31,7 +31,7 @@ the answer will be yours.
         "eighteenth": "two"
     },
 
-    characters: {
+    "characters": {
         "one": "D",
         "two": "R",
         "three": "_",
