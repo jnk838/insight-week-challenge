@@ -13,6 +13,10 @@ and they will be marked.
 **The challenges page contains specific details of what the solutions will look
 like.**
 
+Once the submission deadline has passed, we will be uploading all of the
+solutions to the challenges (along with explanations of how to solve them). So
+make sure you check back here!
+
 <div style="margin-top: 16px">
     <br><a id="home-button" href="./challenges">To the Challenges!</a><br>
 </div>
