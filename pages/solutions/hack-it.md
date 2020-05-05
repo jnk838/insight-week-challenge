@@ -24,13 +24,13 @@ We gave you a [link](https://hackertyper.net "I might help you") and a set of co
 
 If you opened the link and started typing, random code would appear, if you copied the code into a text editor it would be a lot easier to manipulate and keep track of, this might have helped you, but was not necessary. The hardest part was to work out what the code meant, and this was designed to throw you and make you think laterally at the problem, not to overcomplicate it. 
 
-* Each paragraph of numbers represented a word. 
-* Each set of numbers (seperated by a hiphen) represented a letter. 
+* Each line of numbers represented a word. 
+* Each set of numbers (seperated by a hiphen) represented a word. 
 * The first number (before the hiphen) is a line number, representing a word from the website on that line. 
 * The second number (after the hiphen) is a word number, representing the number of words preceeding the word required. 
-* You needed to take the first letter, as given by the hint, of each of these words to get the token. Which was...
+* You needed to take the first letter, as given by the hint, of each of the codes above to get the token. 
 
-`WRITE_IT_NOW`
+Answer - **WRITE_IT_NOW**
 
 For example, to get the first letter, `W`, of the answer you need to do the following.
 

@@ -9,8 +9,6 @@ This challenge was a relatively simple one. It told you to use this [link](http:
 
 `21185`, `1618`, `753`
 
-<br>
+If you zoom in to the collection of stars, you'll be able to see the certain names of stars, followed by the numbers above. The stars were `Lalande 21185`, `Groombridge 1618` and `HR 753`. You might have to do some searching around the space by zooming further in or out or moving around within the space.
 
-If you zoom in to the collection of stars, you'll be able to see the certain names of stars, followed by the numbers above. The stars were 'Lalande 21185', 'Groombridge 1618' and 'HR 753'.
-
-So the answer was 'LALANDE_GROOMBRIDGE_HR'
+So the answer was **LALANDE_GROOMBRIDGE_HR**
