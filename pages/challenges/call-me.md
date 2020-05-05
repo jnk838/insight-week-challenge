@@ -15,8 +15,6 @@ What PIN code did the attackers receive?
 
 [dialfreq]: /assets/img/dialfreq.png "Dial Frequency"
 
-<!-- Answer - FOUR_FIVE_ZERO_SEVEN -->
-
 ---
 
 <div class="wrap-collapsible">

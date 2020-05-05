@@ -16,8 +16,6 @@ What do these codes mean?
 
 What company do they all point to?
 
-<!-- Answer - GOOGLE -->
-
 ---
 
 <div class="wrap-collapsible">

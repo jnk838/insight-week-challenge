@@ -11,8 +11,6 @@ These are my coordinates: `5.862820, -162.065766`.
 
 Please help me find out who I'm with.
 
-<!-- Answer - Snapper -->
-
 ---
 
 <div class="wrap-collapsible">

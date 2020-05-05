@@ -23,8 +23,6 @@ Decode this...
 59-1
 261-1
 
-<!-- Answer - WRITE_IT_NOW -->
-
 ---
 
 <div class="wrap-collapsible">

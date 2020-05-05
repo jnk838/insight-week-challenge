@@ -11,8 +11,6 @@ What stars are represented by the following numbers?
 
 `21185`, `1618`, `753`
 
-<!-- Answer = LALANDE_GROOMBRIDGE_HR -->
-
 ---
 
 <div class="wrap-collapsible">

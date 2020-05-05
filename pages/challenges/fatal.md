@@ -11,8 +11,6 @@ What is the fatality of the following?
 
 You'll need to figure out what the text above this line means and discover the fatality.
 
-<!-- Answer - ONE_SIX_ONE -->
-
 ---
 
 <div class="wrap-collapsible">

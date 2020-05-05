@@ -9,8 +9,6 @@ What words represent these coordinates?
 
 -18.474356, 127.662503
 
-<!-- Answer - PRICE_WATER_HOUSE -->
-
 ---
 
 <div class="wrap-collapsible">
