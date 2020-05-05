@@ -11,11 +11,15 @@ out the fatality.
 
 `NARSARSUAQ, W-87`
 
-Initially, you'd need to find out what the words meant, by searching to find out the following:
+Initially, you'd need to find out what the words meant, by searching to find
+out the following:
 
-* `Narsarsuaq` is a settlement in Greenland.
-* `W-87` is a type of bomb.
+* *Narsarsuaq* is a settlement in Greenland.
+* *W-87* is a type of bomb.
 
-If you opened the [link](ttps://outrider.org/nuclear-weapons/interactive/bomb-blast/ "I Might Help You") and typed in `Narsarsuaq` as the location and chose the `W-87` bomb, the linked website would have given you the fatality count of `161`.
+If you opened the
+[link](https://outrider.org/nuclear-weapons/interactive/bomb-blast/ "I Might Help You")
+and typed in *Narsarsuaq* as the location and chose the *W-87* bomb, the linked
+website would have given you the fatality count of **161**.
 
 Translate this to words to get you answer, **ONE_SIX_ONE**.

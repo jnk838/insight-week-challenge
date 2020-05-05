@@ -19,7 +19,7 @@ The question asked what company they all point to.
 * Code 1 is a hexadecimal number and represent colours.
 * Code 2 is a RGB number and represent red, green and blue values.
 * Code 3 is a CYMK code, standing for cyan, yellow, magenta and black.
-* Code 4 is the Pantone colour code. 
+* Code 4 is the Pantone colour code.
 
 These all therefore relate to colours, the only thing to do now is work out
 which company has this colour scheme. Each value represents a letter in the
