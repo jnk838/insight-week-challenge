@@ -11,8 +11,6 @@ I think I made a mistake, whoops.
 
 Decode the line above and find out what it leads to!
 
-<!-- Answer - CARHENGE -->
-
 ---
 
 <div class="wrap-collapsible">

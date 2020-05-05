@@ -13,9 +13,8 @@ Who is he?
 
 [dialfreq]: /assets/img/blocks.png "Found It!"
 
-<!-- ANSWER - ARCHEMEDES -->
-
 ---
+
 The solution to this challenge is made up of just one word.
 
 <form>

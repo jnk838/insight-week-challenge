@@ -11,8 +11,6 @@ His question is: *"What can I make with just a desert and water?"*
 
 This website may help you: [Little Alchemy](https://littlealchemy.com "I might help you")
 
-<!-- Answer - Oasis -->
-
 ---
 
 <div class="wrap-collapsible">

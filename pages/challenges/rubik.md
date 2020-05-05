@@ -16,9 +16,6 @@ been encoded using a Caesar Cipher!
  
 What colours make up the top corner (nearest to the camera) that is generated?
 
-<!-- Answer - YELLOW_GREEN_RED -->
-<!-- bldmexyfruseyxmfruzdlb -->
-
 ---
 
 <div class="wrap-collapsible">
@@ -27,7 +24,7 @@ What colours make up the top corner (nearest to the camera) that is generated?
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        Shift by ((108+(119*28)-10)/343)+17.
+        Shift by ((108+(119*28)-10)/343)+15.
       </p>
     </div>
   </div>
