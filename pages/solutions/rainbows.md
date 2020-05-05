@@ -21,6 +21,9 @@ Code two is a RGB number and represent red, green and blue values.
 Code 3 is a CYMK code, standing for cyan, yellow, magenta and black.
 Code 4 is the Pantone colour code. 
 
-These all therefore relate to colours, the only thing to do now is work out which company has this colour scheme. Each value represens a letter in the company name which is coloured by the corresponding code, the company will be obvious when you spot it.
+These all therefore relate to colours, the only thing to do now is work out
+which company has this colour scheme. Each value represents a letter in the
+company name which is coloured by the corresponding code, the company will be
+obvious when you spot it.
 
-It is in fact 'GOOGLE'
+It is in fact **GOOGLE**.
