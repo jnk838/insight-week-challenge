@@ -9,8 +9,4 @@ This was a little trickier. The given cipher, `cmenfyzgsvtfzyngsvaemc`, was a di
 
 `bldmexyfruseyxmfruzdlb`
 
-Once you open the [link](https://ruwix.com/online-puzzle-simulators/ "I Might Help You") to the Rubik's cube website and type the code above into the website, the Rubik's cube rotates in the corresponding directions due to the shortcuts entered. Once you have applied these moves, the colours that make up the top corner (nearest to the camera) are ...
-
-**YELLOW_GREEN_RED**
-
-which are the token and answer to the question.
+Once you open the [link](https://ruwix.com/online-puzzle-simulators/ "I Might Help You") to the Rubik's cube website and type the code above into the website, the Rubik's cube rotates in the corresponding directions due to the shortcuts entered. Once you have applied these moves, the colours that make up the top corner (nearest to the camera) are **YELLOW_GREEN_RED**. This is the answer to the question.

@@ -18,4 +18,4 @@ The challenge wanted you to find out who they were with.
 * **Step Six** - Paste the screenshot into `Google Images` and search by image.
 * **Step Seven** - You will be told that the fish is a `Snapper`.
 
-Therefore the answer is **Snapper**.
+Therefore the answer is **SNAPPER**.

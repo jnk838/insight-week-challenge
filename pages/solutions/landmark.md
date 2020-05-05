@@ -17,6 +17,8 @@ Therefore the string above is in hexadecimal, if you decode it from hex using an
 
 `42.142396, -102.858781`
 
-which looks a lot like a longitude and latitude. If you put those in Google Maps and then go to street view and have a look around, you soon realise you are in a place called 'Carhenge'. 
+This looks a lot like a longitude and latitude. If you put those in Google Maps
+and then go to street view and have a look around, you soon realise you are in
+a place called 'Carhenge'. 
 
 Therefore the answer is **CARHENGE**.

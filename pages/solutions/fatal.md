@@ -5,7 +5,9 @@ permalink: /solutions/fatal
 hide: true
 ---
 
-This challenge required just a little bit of searching to work out what the information meant. You were given the following information and told to find out the fatality.
+This challenge required just a little bit of searching to work out what the
+information meant. You were given the following information and told to find
+out the fatality.
 
 `NARSARSUAQ, W-87`
 
