@@ -31,9 +31,6 @@
 - name: To Infinity and Beyond
   difficulty: 1
   link: ./to-infinity-and-beyond
-- name: Fatal
-  difficulty: 1
-  link: ./fatal
 - name: What, 3 Words?
   difficulty: 1
   link: ./three-words
