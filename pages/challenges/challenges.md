@@ -16,6 +16,9 @@ Example: **THIS_IS_AN_EXAMPLE**.
 If a challenge requires an answer that does not fit this format then it will be
 clearly indicated in the page for that challenge.
 
+Make sure to submit your final answers on the provided [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdY8CXp1X3GdxRZ8Y8O1Jx5MhLP4eAHbUx_IoBjEGxIM2LD6w/viewform),
+otherwise you won't earn any points!
+
 ---
 
 ## Easy:
