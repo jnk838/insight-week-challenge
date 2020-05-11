@@ -5,7 +5,7 @@ permalink: /challenges/welcome
 hide: true
 ---
 
-I appear to have dropped my welcome message - its somehow been scrambled up...
+I appear to have dropped my welcome message - it's somehow been scrambled up...
 
 Here it is: `V0VMQ09NRV9UT19USEVfQ0hBTExFTkdFUw==`
 
