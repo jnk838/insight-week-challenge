@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Can't Hack It
 permalink: /challenges/hack-it
 hide: true
+challenge: hack-it
+hint: An acronym.
 ---
 
 As computer science students, we can help you become a programming expert in no
@@ -22,25 +24,3 @@ Decode this...
 7-2
 59-1
 261-1
-
----
-
-<div class="wrap-collapsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Hint</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        An acronym.
-      </p>
-    </div>
-  </div>
-</div>
-
----
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('hack-it', document.getElementById('submission').value)">
-</form>

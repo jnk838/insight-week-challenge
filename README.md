@@ -40,30 +40,12 @@ Then add the details of the challenge to the `_data/challenges.yml` file.
 | Medium               | 2      |
 | Hard                 | 3      |
 
-To allow participants to check their solutions, add the following code to the
-end of your challenge. Swap **CHALLENGE_NAME** for an identifier for your
-challenge and provide me (Jacob) with the solution so I can add it to my
-backend code.
+To allow participants to check their solutions, add a unique identifying name
+for you challenge to the information at the top of the file for your challenge.
+It should look like this: `challenge: CHALLENGE_NAME`. Make sure to pass this
+along to me (Jacob) along with the answer so it can be added to the backend
+code. If you want to explain the format of your challenge, add this line to the
+same area as the challenge identifier: `explanation: ...`.
 
-```html
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('CHALLENGE_NAME', document.getElementById('submission').value)">
-</form>
-```
-
-If you want to add a hint to your challenge, use the following code:
-```html
-<div class="wrap-collapsible">
-    <input id="collapsible" class="toggle" type="checkbox">
-    <label for="collapsible" class="lbl-toggle">Hint</label>
-    <div class="collapsible-content">
-        <div class="content-inner">
-            <p>
-                Your hint goes here.
-            </p>
-        </div>
-    </div>
-</div>
-```
+If you want to add a hint to your challenge, just add the following to the info
+at the top of the file: `hint: Your hint goes here`.

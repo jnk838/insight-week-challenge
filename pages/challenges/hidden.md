@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: challenge
 title: Hidden
 permalink: /challenges/hidden
 hide: true
+challenge: hidden
 ---
 
 I wrote down the answer on this page, but somehow it seems to have been blocked from view?
@@ -14,10 +15,3 @@ I wrote down the answer on this page, but somehow it seems to have been blocked 
 </svg>
 
 If you can find it, submit the string as the answer to this challenge.
-
----
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('hidden', document.getElementById('submission').value)">
-</form>
