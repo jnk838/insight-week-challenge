@@ -24,6 +24,21 @@ layout: default
   {% endif %}
 
   <hr />
+  {% if page.hint %}
+  <div class="wrap-collapsible">
+    <input id="collapsible" class="toggle" type="checkbox">
+    <label for="collapsible" class="lbl-toggle">Hint</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+            <p>
+                {{ page.hint }}
+            </p>
+        </div>
+    </div>
+  </div>
+  {% endif %}
+
+  <hr />
   {% if page.explanation %}
   <p>{{ page.explanation }}</p>
   {% endif %}

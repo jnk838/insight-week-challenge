@@ -47,17 +47,5 @@ along to me (Jacob) along with the answer so it can be added to the backend
 code. If you want to explain the format of your challenge, add this line to the
 same area as the challenge identifier: `explanation: ...`.
 
-If you want to add a hint to your challenge, use the following code:
-```html
-<div class="wrap-collapsible">
-    <input id="collapsible" class="toggle" type="checkbox">
-    <label for="collapsible" class="lbl-toggle">Hint</label>
-    <div class="collapsible-content">
-        <div class="content-inner">
-            <p>
-                Your hint goes here.
-            </p>
-        </div>
-    </div>
-</div>
-```
+If you want to add a hint to your challenge, just add the following to the info
+at the top of the file: `hint: Your hint goes here`.
