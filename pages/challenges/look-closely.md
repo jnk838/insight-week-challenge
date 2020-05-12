@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: challenge
 title: Look Closely
 permalink: /challenges/look-closely
 hide: true
+challenge: look-closely
 ---
 
 ![image][img]
@@ -22,11 +23,3 @@ hide: true
     </div>
   </div>
 </div>
-
----
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('look-closely', document.getElementById('submission').value)">
-</form>

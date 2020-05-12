@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: challenge
 title: Elementary
 permalink: /challenges/elementary
 hide: true
+challenge: elementary
 ---
 
 The following list of elements contains a secret message:
@@ -43,11 +44,3 @@ Polonium`
         </div>
     </div>
 </div>
-
----
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('elementary', document.getElementById('submission').value)">
-</form>

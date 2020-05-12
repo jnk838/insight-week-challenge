@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% include share_thumbnail.html page=page %}
+
+<article class="feature-image">
+  <header id="main" class="background-gradient">
+    <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+        {{ page.title }}
+    </h1>
+    
+    {% if page.subtitle %}
+    <h2 class="subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+      
+  </header>
+  <section class="post-content">
+  {% if page.bootstrap %}
+  <div class="bootstrap-iso">
+  {% endif %}
+	{{ content }}
+  {% if page.bootstrap %}
+  </div>
+  {% endif %}
+
+  <hr />
+  {% if page.explanation %}
+  <p>{{ page.explanation }}</p>
+  {% endif %}
+
+  <form>
+    <label for="answer">Answer:</label><br>
+    <input type="text" id="submission" name="submission"><br><br>
+    <input type="submit" value="Submit" onclick="javascript:checkAnswer('{{ page.challenge }}', document.getElementById('submission').value)">
+  </form>
+
+  </section>
+    
+    
+  <!-- Tag list for portfolio -->
+  {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+  {% include tags_list.html tags=tag_list %}
+    
+</article>

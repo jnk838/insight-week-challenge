@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Call Me
 permalink: /challenges/call-me
 hide: true
+challenge: call-me
+explanation: The words that make up the solution to this challenge are the spelled out form of numbers.
 ---
 
 I was trying to log into my telephone banking when I got suspicious that
@@ -28,14 +30,3 @@ What PIN code did the attackers receive?
     </div>
   </div>
 </div>
-
----
-
-The words that make up the solution to this challenge are the spelled out form
-of numbers.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('call-me', document.getElementById('submission').value)">
-</form>

@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Rainbows
 permalink: /challenges/rainbows
 hide: true
+challenge: rainbows
+explanation: The token is the name of the company. It consists of one word.
 ---
 
 What do these codes mean?
@@ -29,13 +31,3 @@ What company do they all point to?
     </div>
   </div>
 </div>
-
----
-
-The token is the name of the company. It consists of one word.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rainbows', document.getElementById('submission').value)">
-</form>

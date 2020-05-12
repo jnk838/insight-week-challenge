@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Rubik's
 permalink: /challenges/rubik
 hide: true
+challenge: rubik
+explanation: The answer is the top corner nearest you. It should be in the format of LEFTCOLOUR_TOPCOLOUR_RIGHTCOLOUR.
 ---
 
 What happens if you play the following moves on a Rubik's cube?
@@ -29,13 +31,3 @@ What colours make up the top corner (nearest to the camera) that is generated?
     </div>
   </div>
 </div>
-
----
-
-The token is the top corner nearest you. Your token should be in the format of LEFTCOLOUR_TOPCOLOUR_RIGHTCOLOUR
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rubik', document.getElementById('submission').value)">
-</form>

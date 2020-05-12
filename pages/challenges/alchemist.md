@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Musical Alchemist
 permalink: /challenges/alchemist
 hide: true
+challenge: alchemist
+explanation: The token is one word.
 ---
 
 Help out the alchemist. 
@@ -24,13 +26,3 @@ This website may help you: [Little Alchemy](https://littlealchemy.com "I might h
     </div>
   </div>
 </div>
-
----
-
-The token is one word.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('alchemist', document.getElementById('submission').value)">
-</form>

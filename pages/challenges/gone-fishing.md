@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Gone Fishing
 permalink: /challenges/gone-fishing
 hide: true
+challenge: gone-fishing
+explanation: The solution to this challenge is made up of just one word.
 ---
 
 I got a bit lost...  
@@ -24,12 +26,3 @@ Please help me find out who I'm with.
     </div>
   </div>
 </div>
-
----
-The solution to this challenge is made up of just one word.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('gone-fishing', document.getElementById('submission').value)">
-</form>

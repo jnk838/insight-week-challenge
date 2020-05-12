@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: What, Three Words?
 permalink: /challenges/three-words
 hide: true
+challenge: three-words
+explanation: Make sure to swap the dots for underscores!
 ---
 
 What words represent these coordinates?
@@ -22,12 +24,3 @@ What words represent these coordinates?
         </div>
     </div>
 </div>
-
----
-Make sure to swap the dots for underscores!
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('three-words', document.getElementById('submission').value)">
-</form>

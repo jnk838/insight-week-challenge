@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: challenge
 title: Landmark
 permalink: /challenges/landmark
 hide: true
+challenge: landmark
+explanation: The solution to this challenge is made up of just one word.
 ---
 
 I think I made a mistake, whoops.
@@ -24,12 +26,3 @@ Decode the line above and find out what it leads to!
     </div>
   </div>
 </div>
-
----
-The solution to this challenge is made up of just one word.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('landmark', document.getElementById('submission').value)">
-</form>
