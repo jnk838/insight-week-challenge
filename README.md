@@ -44,7 +44,8 @@ To allow participants to check their solutions, add a unique identifying name
 for you challenge to the information at the top of the file for your challenge.
 It should look like this: `challenge: CHALLENGE_NAME`. Make sure to pass this
 along to me (Jacob) along with the answer so it can be added to the backend
-code.
+code. If you want to explain the format of your challenge, add this line to the
+same area as the challenge identifier: `explanation: ...`.
 
 If you want to add a hint to your challenge, use the following code:
 ```html
