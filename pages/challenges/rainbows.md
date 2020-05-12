@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: challenge
 title: Rainbows
 permalink: /challenges/rainbows
 hide: true
+challenge: rainbows
+explanation: The token is the name of the company. It consists of one word.
+hint: Code 1 is a series of hexadecimal numbers.
 ---
 
 What do these codes mean?
@@ -15,27 +18,3 @@ What do these codes mean?
 | 4:   | PMS 660 C  | PMS 7619 C | PMS 123 C | PMS 660 C  | PMS 7724 C | PMS 7619 C |
 
 What company do they all point to?
-
----
-
-<div class="wrap-collapsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Hint</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        Code 1 is a series of hexadecimal numbers.
-      </p>
-    </div>
-  </div>
-</div>
-
----
-
-The token is the name of the company. It consists of one word.
-
-<form>
-    <label for="answer">Answer:</label><br>
-    <input type="text" id="submission" name="submission"><br><br>
-    <input type="submit" value="Submit" onclick="javascript:checkAnswer('rainbows', document.getElementById('submission').value)">
-</form>

@@ -4,15 +4,14 @@ url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 title: Insight Week Challenge                                    # site's title
-description: "A technical challenge for students taking part in PwC's online Insight Week."      # used by search engines
+description: "A technical challenge for students taking part in Insight Week."      # used by search engines
 avatar: assets/img/iwc-logo.png                         # Empty for no avatar in navbar
 favicon: assets/img/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Welcome to the PwC Insight Week Challenge! # Change Blog header text
+header_text: Welcome to the Insight Week Challenge! # Change Blog header text
 header_feature_image: assets/img/iwc-logo.png
 footer_text: >-
-  Designed by some of PwC's Technology Degree Apprentices<br>
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
