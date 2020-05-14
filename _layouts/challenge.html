@@ -23,6 +23,7 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.challenge %}
   {% if page.hint %}
   <hr />
   <div class="wrap-collapsible">
@@ -48,6 +49,7 @@ layout: default
     <input type="text" id="submission" name="submission"><br><br>
     <input type="submit" value="Submit" onclick="javascript:checkAnswer('{{ page.challenge }}', document.getElementById('submission').value)">
   </form>
+  {% endif %}
 
   </section>
     
