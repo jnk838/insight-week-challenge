@@ -5,7 +5,7 @@ permalink: /challenges/three-words
 hide: true
 challenge: three-words
 explanation: Make sure to swap the dots for underscores!
-hint: Three words...
+hint: It may help to Google the challenge name...
 ---
 
 What words represent these coordinates?

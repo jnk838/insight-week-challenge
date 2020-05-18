@@ -14,5 +14,6 @@ insecure, so the people in charge of the IT system decided to add the word to a
 list of banned words for including in passwords.
 
 You'll find the answer to this challenge if you manage to log into my account
-by getting around this filtering system! Click [here](https://PasswordIsPassword.jac0bwilson.repl.run)
-to attempt to get into my account.
+by getting around this filtering system! 
+
+**Click [here](https://PasswordIsPassword.jac0bwilson.repl.run) to attempt to get into my account.**

@@ -9,8 +9,8 @@ explanation: The solution to this challenge is made up of just one word.
 
 "But he started it!"
 
-Who is he?
+Who is **he**?
 
-![alt text][dialfreq]
+![alt text][img]
 
-[dialfreq]: /assets/img/blocks.png "Found It!"
+[img]: /assets/img/blocks.png "Found It!"
