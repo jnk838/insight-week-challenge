@@ -12,7 +12,7 @@ challenge you had to use this to your advantage.
 
 This could be be done by including the banned string within itself. The
 password that you needed to provide was *'password'*, but just entering that
-will make the system think tha you didn't even type anything. An example of an
+will make the system think that you didn't even type anything. The simplest
 input that will be accepted is *'passpasswordword'*. This works as the code
 will remove 'password' from the middle of the string, and then this will leave
 the newly formed string as being 'password', which will then be accepted.
