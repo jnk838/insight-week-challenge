@@ -4,7 +4,7 @@ title: Look Closely
 permalink: /challenges/look-closely
 hide: true
 challenge: look-closely
-hint: Look inside the image...
+hint: Make sure you download the image!
 ---
 
 ![image][img]
