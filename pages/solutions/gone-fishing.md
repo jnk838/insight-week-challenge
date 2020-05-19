@@ -7,7 +7,7 @@ hide: true
 
 The given codes looked a lot like a longitude and latitude.
 
- `5.862820, -162.065766`.
+ `5.8664269, -162.0676117`.
 
 The challenge wanted you to find out who they were with.
 
