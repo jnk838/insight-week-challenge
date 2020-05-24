@@ -21,7 +21,7 @@ All of the codes are methods of representing colours:
 * Code 1 is a set of hexadecimal numbers.
 * Code 2 is a set of RGB (red, green, blue) numbers.
 * Code 3 is a set of CYMK (cyan, yellow, magenta and black) codes.
-* Code 4 is a set of Pantone colour code.
+* Code 4 is a set of Pantone colour codes.
 
 The only thing to do now is work out which company these colours relate to.
 Each value represents a letter in the company logo which is coloured by the
