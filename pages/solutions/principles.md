@@ -14,7 +14,7 @@ The clue for this one gave a statement and an image ...
 [dialfreq]: /assets/img/blocks.png "Found It!"
 
 If you adjust the distance between your device and your eyes you'll be able to
-see the negative space of the image. It spells out 'Eureka' which was in fact
-first said by Archimedes.
+see the negative space of the image. It spells out 'Eureka' which was famously
+said by Archimedes.
 
 The answer is therefore **ARCHIMEDES**.

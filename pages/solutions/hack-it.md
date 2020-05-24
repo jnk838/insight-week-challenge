@@ -30,7 +30,7 @@ part was to work out what the code meant, and this was designed to throw you
 and make you think laterally at the problem, not to overcomplicate it.
 
 * Each line of numbers represented a word.
-* Each set of numbers (separated by a hyphen) represented a word.
+* Each set of numbers (separated by a hyphen) represented a letter.
 * The first number (before the hyphen) is a line number, representing a word
 from the website on that line.
 * The second number (after the hyphen) is a word number, representing the

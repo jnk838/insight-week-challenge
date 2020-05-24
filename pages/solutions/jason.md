@@ -37,5 +37,9 @@ for char in order:
 print(solution)
 ```
 
+This code works as Python dictionaries and .json files are equivalent, so the 
+file can be loaded into a dictionary and then can be iterated over to quickly
+carry out a process on every item that it contains.
+
 Whichever way you choose to solve it, you will end up with the solution of:
 **BOND_SOUNDS_BETTER**. 

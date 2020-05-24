@@ -16,14 +16,15 @@ These were the codes that were given to you in the question...
 
 The question asked what company they all point to.
 
-* Code 1 is a hexadecimal number and represent colours.
-* Code 2 is a RGB number and represent red, green and blue values.
-* Code 3 is a CYMK code, standing for cyan, yellow, magenta and black.
-* Code 4 is the Pantone colour code.
+All of the codes are methods of representing colours:
 
-These all therefore relate to colours, the only thing to do now is work out
-which company has this colour scheme. Each value represents a letter in the
-company name which is coloured by the corresponding code, the company will be
-obvious when you spot it.
+* Code 1 is a set of hexadecimal numbers.
+* Code 2 is a set of RGB (red, green, blue) numbers.
+* Code 3 is a set of CYMK (cyan, yellow, magenta and black) codes.
+* Code 4 is a set of Pantone colour code.
+
+The only thing to do now is work out which company these colours relate to.
+Each value represents a letter in the company logo which is coloured by the
+corresponding code, the company will be obvious when you spot it.
 
 It is in fact **GOOGLE**.
