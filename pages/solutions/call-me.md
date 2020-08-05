@@ -27,6 +27,7 @@ lines within each time period, these represent one number dialed on the keypad.
 The frequencies of the tones are written below.
 
 ![alt text][dtmf]
+
 [dtmf]: /assets/img/dtmf.jpg "DTMF"
 
 By looking through the value of the frequency for each yellow bar in the
