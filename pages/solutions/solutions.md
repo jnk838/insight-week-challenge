@@ -4,11 +4,15 @@ title: Solutions
 permalink: /solutions/
 ---
 
-On this page you will find solutions for all of the challenges that we created!
+<!-- On this page you will find solutions for all of the challenges that we created! -->
+
+Oi! You cheeky thing, don't be peeking at the solutions just yet!
+
+The answers will be available after the competition has finished! Use the hints if you're stuck for now.
 
 ---
 
-## Easy:
+<!-- ## Easy:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -42,4 +46,4 @@ On this page you will find solutions for all of the challenges that we created!
       </div>
     {% endif %}
   {% endfor %}
-</div>
+</div> -->
