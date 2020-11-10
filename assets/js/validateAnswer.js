@@ -6,7 +6,7 @@ window.onload = function () {
 
 function checkAnswer(challenge, submission) {
   const HTTP = new XMLHttpRequest();
-  const url = 'https://us-central1-insight-week-challenge.cloudfunctions.net/validate-answer';
+  const url = 'https://europe-west2-logical-codex-294810.cloudfunctions.net/answerValidate';
   const json_up = JSON.stringify({ "chal": challenge, "sub": submission });
 
   console.log(json_up);
