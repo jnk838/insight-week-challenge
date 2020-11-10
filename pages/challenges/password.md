@@ -17,7 +17,7 @@ list of banned words for including in passwords.
 You'll find the answer to this challenge if you manage to log into my account
 by getting around this filtering system! 
 
-**Click [here](https://PasswordIsPassword.jac0bwilson.repl.run) to attempt to get into my account.**
+**Click [here](https://repl.it/@jnk838/passwordChallenge#main.py) to attempt to get into my account.**
 
 *Update (18/05/20 @ 22:35): Just to clarify, the filtering system will always
 remove the string "password" from your input.*
