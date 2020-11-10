@@ -17,11 +17,10 @@ If a challenge requires an answer that does not fit this format then it will be
 clearly indicated in the page for that challenge.
 
 Make sure to submit your final answers on the provided [Google Form](https://forms.gle/RaV2nNM6jQM2UAoo9),
-otherwise you won't earn any points!
+otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only submit your answers once so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions before your time is up otherwise you won't score any points! 
 <!-- **The deadline for submissions is 8pm on Sunday (24/05/20).** -->
 
-Challenges are grouped by their difficulty, but all of them are worth the same
-amount of points!
+Challenges are grouped by their difficulty, easy are worth 50 points, medium are worth 150 points and hard are worth 300 points each!
 
 ---
 
