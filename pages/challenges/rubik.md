@@ -15,6 +15,6 @@ What happens if you play the following moves on a Rubik's cube?
 But wait, it can't be that simple can it? Of course not! The sequence above has
 been encoded using a Caesar Cipher!
 
-[Click here to open the Rubik's cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You").
+[Click here to open the Rubik's cube solver](https://ruwix.com/online-puzzle-simulators/ "I Might Help You"){:target="_blank"}.
  
 What colours make up the top corner (nearest to the camera) that is generated?

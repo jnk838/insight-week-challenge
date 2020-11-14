@@ -6,7 +6,7 @@ hide: true
 challenge: elementary
 hint: >
     Every one of these elements maps to a character somehow... <br>
-    This <a href="https://pubchem.ncbi.nlm.nih.gov/periodic-table/">link</a> will probably be very helpful.
+    This <a href="https://pubchem.ncbi.nlm.nih.gov/periodic-table/" target="_blank">link</a> will probably be very helpful.
 ---
 
 The following list of elements contains a secret message:

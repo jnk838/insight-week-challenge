@@ -8,7 +8,7 @@ hint: An acronym.
 ---
 
 As computer science students, we can help you become a programming expert in no
-time at all! You'll just need to click this [link](https://hackertyper.net "I might help you").
+time at all! You'll just need to click this [link](https://hackertyper.net "I might help you"){:target="_blank"}.
 
 Decode this...
 

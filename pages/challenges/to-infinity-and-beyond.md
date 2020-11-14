@@ -7,7 +7,7 @@ challenge: to-infinity-and-beyond
 hint: Add an underscore between each star.
 ---
 
-Ever look up at night and wonder what you're seeing? [Use this link to find out!](http://stars.chromeexperiments.com "I might help you")
+Ever look up at night and wonder what you're seeing? [Use this link to find out!](http://stars.chromeexperiments.com "I might help you"){:target="_blank"}
 
 What stars are represented by the following numbers?
 
