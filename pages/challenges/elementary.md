@@ -9,7 +9,7 @@ hint: >
     This <a href="https://pubchem.ncbi.nlm.nih.gov/periodic-table/" target="_blank">link</a> will probably be very helpful.
 ---
 
-The following list of elements contains a secret message:
+The following list of elements contains a hidden secret message:
 
 `Mercury,
 Lead,
