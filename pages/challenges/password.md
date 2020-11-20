@@ -19,5 +19,5 @@ by getting around this filtering system!
 
 **Click [here](https://repl.it/@jnk838/passwordChallenge#main.py){:target="_blank"} to attempt to get into my account.**
 
-*Update (18/05/20 @ 22:35): Just to clarify, the filtering system will always
-remove the string "password" from your input.*
+Just to clarify, the filtering system will always
+remove the string "password" from your input.
