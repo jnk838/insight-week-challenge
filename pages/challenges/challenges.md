@@ -20,11 +20,11 @@ Make sure to submit your final answers on the provided [Google Form](https://for
 otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only submit your answers once so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions before your time is up otherwise you won't score any points! 
 <!-- **The deadline for submissions is 8pm on Sunday (24/05/20).** -->
 
-Challenges are grouped by their difficulty, easy are worth 50 points, medium are worth 150 points and hard are worth 300 points each!
+Challenges are grouped by their difficulty, BRONZE are worth 50 points, SILVER are worth 150 points, GOLD are worth 300 points and PLATINUM are worth 500 points each!
 
 ---
 
-## Easy:
+## Bronze:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -36,7 +36,7 @@ Challenges are grouped by their difficulty, easy are worth 50 points, medium are
   {% endfor %}
 </div>
 
-## Medium:
+## Silver:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -48,7 +48,7 @@ Challenges are grouped by their difficulty, easy are worth 50 points, medium are
   {% endfor %}
 </div>
 
-## Hard:
+## Gold:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -60,7 +60,7 @@ Challenges are grouped by their difficulty, easy are worth 50 points, medium are
   {% endfor %}
 </div>
 
-## Extra Hard:
+## Platinum:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}

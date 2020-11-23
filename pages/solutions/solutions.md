@@ -12,7 +12,7 @@ The answers will be available after the competition has finished! Use the hints 
 
 ---
 
-<!-- ## Easy:
+<!-- ## Bronze:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -24,7 +24,7 @@ The answers will be available after the competition has finished! Use the hints 
   {% endfor %}
 </div>
 
-## Medium:
+## Silver:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -36,7 +36,7 @@ The answers will be available after the competition has finished! Use the hints 
   {% endfor %}
 </div>
 
-## Hard:
+## Gold:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -48,7 +48,7 @@ The answers will be available after the competition has finished! Use the hints 
   {% endfor %}
 </div> 
 
-## Extra Hard:
+## Platinum:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
