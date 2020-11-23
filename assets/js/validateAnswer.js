@@ -23,11 +23,11 @@ function checkAnswer(challenge, submission) {
         console.log(response);
 
         if (response === "correct") {
-          alert("Well done! That is the correct answer!");
+          alert("Nailed it - that is the correct answer! Great job!");
         } else if (response === "case") {
-          alert("You were close! Make sure your answer is only using uppercase letters!");
+          alert("You were so close! Make sure your answer is only using uppercase letters!");
         } else {
-          alert("Sorry, that isn't the right answer.");
+          alert("Keep trying, that isn't the right answer. You'll get there soon enough!");
         }
       } else {
         // Oh no! There has been an error with the request!
