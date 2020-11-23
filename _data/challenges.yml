@@ -5,13 +5,13 @@
   difficulty: 1
   link: ./hidden
 - name: Password
-  difficulty: 2
+  difficulty: 3
   link: ./password
 - name: Silly String
-  difficulty: 1
+  difficulty: 2
   link: ./silly-string
 - name: Gone Fishing
-  difficulty: 2
+  difficulty: 4
   link: ./gone-fishing
 - name: Landmark
   difficulty: 3
@@ -26,7 +26,7 @@
   difficulty: 2
   link: ./principles
 - name: Can't Hack It
-  difficulty: 3
+  difficulty: 4
   link: ./hack-it
 - name: To Infinity and Beyond
   difficulty: 1
@@ -44,11 +44,11 @@
   difficulty: 2
   link: ./rubik
 - name: Musical Alchemist
-  difficulty: 3
+  difficulty: 1
   link: ./alchemist
 - name: Look Closely
-  difficulty: 1
+  difficulty: 3
   link: ./look-closely
 - name: The Name is Jason
-  difficulty: 1
+  difficulty: 2
   link: ./jason

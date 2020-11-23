@@ -12,7 +12,7 @@ The answers will be available after the competition has finished! Use the hints 
 
 ---
 
-<!-- ## Easy:
+## Easy:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -46,4 +46,16 @@ The answers will be available after the competition has finished! Use the hints 
       </div>
     {% endif %}
   {% endfor %}
-</div> -->
+</div> 
+
+## Extra Hard:
+
+<div class="item-container">
+  {% for challenge in site.data.challenges %}
+    {% if challenge.difficulty == 4 %}
+      <div class="challenge-container">
+        <br><a class="challenge-button" href="{{ challenge.link }}">{{ challenge.name }}</a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
