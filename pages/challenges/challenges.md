@@ -9,7 +9,7 @@ of the competition.
 
 The answers to all of the challenges will usually be words separated by
 underscores. The case of letters in your answers is **very important**, you
-must provide your solutions using only **uppercase** letters.
+must provide your solutions using only **UPPERCASE** letters.
 
 Example: **THIS_IS_AN_EXAMPLE**.
 
@@ -17,10 +17,13 @@ If a challenge requires an answer that does not fit this format then it will be
 clearly indicated in the page for that challenge.
 
 Make sure to submit your final answers on the provided [Google Form](https://forms.gle/RaV2nNM6jQM2UAoo9){:target="_blank"},
-otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only submit your answers once so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions before your time is up otherwise you won't score any points! 
-<!-- **The deadline for submissions is 8pm on Sunday (24/05/20).** -->
+otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only submit your answers <strong>once</strong> so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions <strong>before your time is up</strong> otherwise you won't score any points!
 
-Challenges are grouped by their difficulty, BRONZE are worth 50 points, SILVER are worth 150 points, GOLD are worth 300 points and PLATINUM are worth 500 points each!
+Challenges are grouped by their difficulty:
+<li> <strong>BRONZE</strong> = 50 POINTS </li>
+<li> <strong>SILVER</strong> = 150 POINTS  </li>
+<li> <strong>GOLD</strong> = 300 POINTS  </li>
+<li> <strong>PLATINUM</strong> = 500 POINTS   </li>
 
 ---
 
