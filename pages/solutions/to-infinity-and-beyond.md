@@ -6,7 +6,7 @@ hide: true
 ---
 
 This challenge was a relatively simple one. It told you to use this
-[link](http://stars.chromeexperiments.com "I might help you") and then wanted
+[link](http://stars.chromeexperiments.com "I might help you"){:target="_blank"} and then wanted
 you to find out which stars are represented by the following numbers.
 
 `21185`, `1618`, `753`

@@ -16,7 +16,7 @@ to form.
 
 If you found a cheat to this principle and searched for a complete list of
 Little Alchemy items, such as this one
-[here](https://www.ign.com/wikis/little-alchemy/Little_Alchemy_Cheats_-_List_of_All_Combinations "All possible combinations"),
+[here](https://www.ign.com/wikis/little-alchemy/Little_Alchemy_Cheats_-_List_of_All_Combinations "All possible combinations"){:target="_blank"},
 you'd then be able to search through that list to find which items were able to
 be made from just a desert and water. The easiest way to do this was to use the
 *find in page* tool in your browser to search for 'desert'. This was relevant

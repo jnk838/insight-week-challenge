@@ -52,3 +52,21 @@
 - name: The Name is Jason
   difficulty: 2
   link: ./jason
+- name: Inside the Pages
+  difficulty: 3
+  link: ./inside-the-pages
+- name: In Time
+  difficulty: 2
+  link: ./in-time
+- name: A Very Lucky Man
+  difficulty: 2
+  link: ./a-very-lucky-man
+- name: Trending
+  difficulty: 1
+  link: ./trending
+- name: Under the Dropper
+  difficulty: 3
+  link: ./under-the-dropper
+- name: Oink Oink
+  difficulty: 1
+  link: ./oink-oink

@@ -17,7 +17,7 @@ If a challenge requires an answer that does not fit this format then it will be
 clearly indicated in the page for that challenge.
 
 Make sure to submit your final answers on the provided [Google Form](https://forms.gle/RaV2nNM6jQM2UAoo9){:target="_blank"},
-otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only submit your answers <strong>once</strong> so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions <strong>before your time is up</strong> otherwise you won't score any points!
+otherwise you won't earn any points! Only respond to the Google Form once at the end of the allotted time, you can only <strong>submit your answers once</strong> so make sure you enter as many as you can and make sure they are correct by using the boxes in each challenge. Make sure you submit your solutions <strong>before your time is up</strong> otherwise you won't score any points!
 
 Challenges are grouped by their difficulty:
 <li> <strong>BRONZE</strong> = 50 POINTS </li>

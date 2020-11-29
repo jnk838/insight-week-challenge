@@ -7,7 +7,7 @@ hide: true
 
 This was most likely the hardest challenge we set you.
 
-We gave you a [link](https://hackertyper.net "I might help you") and a set of
+We gave you a [link](https://hackertyper.net "I might help you"){:target="_blank"} and a set of
 codes...
 
 `15-4`

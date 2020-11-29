@@ -16,7 +16,7 @@ binary. If we swap 🎊 for 1 and 🎉 for 0, we get the following:
 By converting this binary string back to plain text, we find the challenge
 answer: **LOOKS_LIKE_BINARY_TO_ME**.
 
-All of this can be done using [CyberChef](https://gchq.github.io/CyberChef/) by
+All of this can be done using [CyberChef](https://gchq.github.io/CyberChef/){:target="_blank"} by
 using the following steps.
 
 ![Answer][answer]
