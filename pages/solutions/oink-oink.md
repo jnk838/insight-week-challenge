@@ -30,4 +30,4 @@ The values here were quite obscure, but as per the name of the challenge, it had
 
 <br>If you concatenate these, you will get the solution!
 
-Therefore the answer is **whoami_netstat_systeminfo_mkdir_more_cd**.
+Therefore the answer is **WHOAMI_NETSTAT_SYSTEMINFO_MKDIR_MORE_CD**.
