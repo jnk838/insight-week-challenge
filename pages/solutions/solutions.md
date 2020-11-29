@@ -12,7 +12,7 @@ The answers will be available after the competition has finished! Use the hints 
 
 ---
 
-## Bronze:
+<!-- ## Bronze:
 
 <div class="item-container">
   {% for challenge in site.data.challenges %}
@@ -58,4 +58,4 @@ The answers will be available after the competition has finished! Use the hints 
       </div>
     {% endif %}
   {% endfor %}
-</div>
+</div> -->
