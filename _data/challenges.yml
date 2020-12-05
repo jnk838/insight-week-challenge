@@ -70,3 +70,9 @@
 - name: Oink Oink
   difficulty: 1
   link: ./oink-oink
+- name: Brute Force
+  difficulty: 1
+  link: ./brute-force
+- name: A Big Word Search
+  difficulty: 1
+  link: ./word-search
