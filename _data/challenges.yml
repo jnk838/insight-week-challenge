@@ -5,7 +5,7 @@
   difficulty: 1
   link: ./hidden
 - name: Password
-  difficulty: 3
+  difficulty: 4
   link: ./password
 - name: Silly String
   difficulty: 2
@@ -25,12 +25,6 @@
 - name: Principles
   difficulty: 2
   link: ./principles
-- name: Can't Hack It
-  difficulty: 4
-  link: ./hack-it
-- name: To Infinity and Beyond
-  difficulty: 1
-  link: ./to-infinity-and-beyond
 - name: What, 3 Words?
   difficulty: 1
   link: ./three-words
@@ -39,10 +33,6 @@
   link: ./elementary
 - name: Rainbows
   difficulty: 3
-  link: ./rainbows
-- name: Rubik's
-  difficulty: 2
-  link: ./rubik
 - name: Musical Alchemist
   difficulty: 1
   link: ./alchemist
@@ -59,7 +49,7 @@
   difficulty: 2
   link: ./in-time
 - name: A Very Lucky Man
-  difficulty: 2
+  difficulty: 3
   link: ./a-very-lucky-man
 - name: Trending
   difficulty: 1
@@ -70,9 +60,6 @@
 - name: Oink Oink
   difficulty: 1
   link: ./oink-oink
-- name: Brute Force
-  difficulty: 1
-  link: ./brute-force
 - name: A Big Word Search
   difficulty: 1
   link: ./word-search
