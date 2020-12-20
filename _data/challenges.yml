@@ -63,3 +63,18 @@
 - name: A Big Word Search
   difficulty: 1
   link: ./word-search
+# - name: To Infinity and Beyond
+#   difficulty: 1
+#   link: ./to-infinity-and-beyond
+# - name: Brute Force
+#   difficulty: 1
+#   link: ./brute-force
+# - name: Rubiks
+#   difficulty: 2
+#   link: ./rubik
+# - name: Brute Force
+#   difficulty: 2
+#   link: ./brute-force
+# - name: Cant Hack It
+#   difficulty: 4
+#   link: ./hack-it
