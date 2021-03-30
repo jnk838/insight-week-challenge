@@ -33,6 +33,7 @@
   link: ./elementary
 - name: Rainbows
   difficulty: 3
+  link: ./rainbows
 - name: Musical Alchemist
   difficulty: 1
   link: ./alchemist
